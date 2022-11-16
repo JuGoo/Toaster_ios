@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "toaster_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JuGoo/Toaster_ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "aec194cbad3cc76c6e2805740b0615f0bc40a3db"
+      }
+    }
+  ],
+  "version" : 2
+}
